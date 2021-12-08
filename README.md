@@ -19,4 +19,5 @@ Day 3: Solved in Rust \
 Day 4: Solved in Haskell \
 Day 5: Solved in C# / Haskell \
 Day 6: Solved in Haskell \
-Day 7: ..
+Day 7: Solved in Haskell \
+Day 8: ..

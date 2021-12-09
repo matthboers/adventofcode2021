@@ -1,7 +1,7 @@
 module Main where
 
 import System.IO ( openFile, hGetContents, IOMode(ReadMode) )
-import qualified Data.Map as M
+import Text.Printf ( printf )
 
 main :: IO ()
 main = do
@@ -11,8 +11,8 @@ main = do
   let nums = map (\x -> read x :: Integer) $ commas contents
   let rangeNums = [minimum nums.. maximum nums]
   
-  --print $ foldr (min . sumDistance nums) 99999999999999999999 rangeNums
-  print $ foldr (min . sumTriangleDistance nums) 99999999999999999999 rangeNums
+  printf "Part 1 solution: %s\n" $ show $ minimum $ map (sumDistance nums) rangeNums
+  printf "Part 2 solution: %s\n" $ show $ minimum $ map (sumTriangleDistance nums) rangeNums
 
 
 sumDistance :: [Integer] -> Integer -> Integer

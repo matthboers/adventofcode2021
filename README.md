@@ -13,12 +13,13 @@ My initial goal was to use Rust. My unfamiliarity with the language proved to be
 Occasionally with C# and Python, if Haskell is giving me too many headaches.
 
 ## Progress log
-Day 1: Solved in Rust \
-Day 2: Solved in Rust \
-Day 3: Solved in Rust \
-Day 4: Solved in Haskell \
-Day 5: Solved in C# / Haskell \
-Day 6: Solved in Haskell \
-Day 7: Solved in Haskell \
-Day 8: Solved in Haskell \
-Day 9: ..
+Day 1:  Solved in Rust \
+Day 2:  Solved in Rust \
+Day 3:  Solved in Rust \
+Day 4:  Solved in Haskell \
+Day 5:  Solved in C# / Haskell \
+Day 6:  Solved in Haskell \
+Day 7:  Solved in Haskell \
+Day 8:  Solved in Haskell \
+Day 9:  Solved in C# \
+Day 10: ..

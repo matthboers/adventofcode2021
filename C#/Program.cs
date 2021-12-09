@@ -6,7 +6,7 @@ namespace AoC
     {
         public static void Main(string[] args)
         {
-            Day5 day5 = new Day5();
+            Day9 day9 = new Day9();
         }
     }
 }

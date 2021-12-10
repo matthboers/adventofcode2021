@@ -22,4 +22,5 @@ Day 6:  Solved in [Haskell](Haskell/day6.hs) \
 Day 7:  Solved in [Haskell](Haskell/day7.hs) \
 Day 8:  Solved in [Haskell](Haskell/day8.hs) \
 Day 9:  Solved in [C#](C%23/Day9.cs) \
-Day 10: ..
+Day 10: Solved in [Haskell](Haskell/day10.hs) \
+Day 11: ..
